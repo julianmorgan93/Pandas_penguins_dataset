@@ -1,7 +1,8 @@
 
 # 🐧 Handling Missing Data with Pandas – Palmer Penguins Dataset
 
-This repository showcases practical data cleaning techniques using Python and pandas, with a focus on identifying and managing missing values in real-world datasets.
+This project explores techniques for identifying and handling missing values in real-world datasets using Python and pandas. It includes practical examples with both a sample DataFrame and the penguins.csv dataset from the Palmer Penguins project. Key steps involve detecting missing entries, quantifying them across rows and columns, and applying strategies like dropping or filtering data. Ideal for learners and analysts looking to improve their data cleaning and wrangling skills.
+
 
 ## 🔍 Features
 
